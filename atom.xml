@@ -8,20 +8,9 @@
     <author>
       <name>John Doe</name>
     </author>
-    <updated>2024-11-09T01:33:54.000Z</updated>
+    <updated>2020-08-13T13:45:48.000Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
-    <entry>
-        <id>http://yoursite.com/dairy/</id>
-        <title>dairy</title>
-        <link rel="alternate" href="http://yoursite.com/dairy/"/>
-        <content type="html">&lt;p&gt;测试&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;梦真的会有问题吗&lt;/p&gt;
-&lt;hr /&gt;
-</content>
-        <updated>2024-11-09T01:33:54.000Z</updated>
-    </entry>
     <entry>
         <id>http://yoursite.com/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>
@@ -1997,5 +1986,16 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
         <content type="html">&lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
 </content>
         <updated>2013-12-24T15:31:06.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://yoursite.com/categories/</id>
+        <title>Categories</title>
+        <link rel="alternate" href="http://yoursite.com/categories/"/>
+        <content type="html">&lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
+</content>
+        <category term="Foo" scheme="http://yoursite.com/categories/Foo/" />
+        <category term="Bar" scheme="http://yoursite.com/categories/Foo/Bar/" />
+        <category term="Baz" scheme="http://yoursite.com/categories/Foo/Bar/Baz/" />
+        <updated>2013-12-24T15:30:09.000Z</updated>
     </entry>
 </feed>
