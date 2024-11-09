@@ -18,6 +18,7 @@
             <guid isPermalink="true">http://yoursite.com/dairy/</guid>
             <title>梦是真实的吗</title>
             <link>http://yoursite.com/dairy/</link>
+            <category term="杂记" scheme="http://yoursite.com/tags/%E6%9D%82%E8%AE%B0/" />
             <pubDate>Sat, 09 Nov 2024 09:45:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;美梦可能难以是真的，但是噩梦总是有可能。&lt;/p&gt;
 &lt;hr /&gt;
