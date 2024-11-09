@@ -7,6 +7,14 @@
     "home_page_url": "http://yoursite.com",
     "items": [
         {
+            "id": "http://yoursite.com/dairy/",
+            "url": "http://yoursite.com/dairy/",
+            "title": "dairy",
+            "date_published": "2024-11-09T01:33:54.000Z",
+            "content_html": "<p>测试</p>\n<hr />\n<p>梦真的会有问题吗</p>\n<hr />\n",
+            "tags": []
+        },
+        {
             "id": "http://yoursite.com/computer-science/note/theme-shoka-doc/special/",
             "url": "http://yoursite.com/computer-science/note/theme-shoka-doc/special/",
             "title": "Step.4 主题特殊功能",
@@ -198,18 +206,6 @@
             "date_published": "2013-12-24T15:31:06.000Z",
             "content_html": "<p>This post has a long title. Make sure the title displayed right.</p>\n",
             "tags": []
-        },
-        {
-            "id": "http://yoursite.com/categories/",
-            "url": "http://yoursite.com/categories/",
-            "title": "Categories",
-            "date_published": "2013-12-24T15:30:09.000Z",
-            "content_html": "<p>This post contains 3 categories. Make sure your theme can display all of the categories.</p>\n",
-            "tags": [
-                "Foo",
-                "Bar",
-                "Baz"
-            ]
         }
     ]
 }
